@@ -1,4 +1,4 @@
-# machines-tcs-client
+# MachinesFront
 
 ## Project setup
 ```
