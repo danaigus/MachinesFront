@@ -1,5 +1,7 @@
 # MachinesFront
 
+Frontend para a aplicação MachinesAPI.
+
 ## Project setup
 ```
 npm install
