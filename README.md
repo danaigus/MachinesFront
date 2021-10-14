@@ -1,6 +1,6 @@
 # MachinesFront
 
-Frontend para a aplicação MachinesAPI.
+Frontend para MachinesAPI que adiciona a função de geração de eventos com status aleatórios.
 Utiliza Vue.js, Vue Router, Babel, ESLint e Bootstrap.
 
 ## Instação do projeto
