@@ -1,6 +1,7 @@
 # MachinesFront
 
 Frontend para a aplicação MachinesAPI.
+Utiliza Vue.js, Vue Router, Babel, ESLint e Bootstrap.
 
 ## Instação do projeto
 ```
