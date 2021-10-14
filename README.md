@@ -2,25 +2,25 @@
 
 Frontend para a aplicação MachinesAPI.
 
-## Project setup
+## Instação do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e atualização rápida para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilação para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Verifica e corrige arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalize a configuração
+Veja [Referência de Configuração](https://cli.vuejs.org/config/).
